@@ -1,5 +1,5 @@
 
-package tinkofftest;
+package emptytriangle;
 
 
 import java.util.ArrayList;
